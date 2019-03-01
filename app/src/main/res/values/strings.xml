@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="password">Password</string>
+    <string name="click_me">Show Color</string>
+    <string name="title_activity_setting"> </string>
+    <string name="title_activity_login"> </string>
+    <string name="title_activity_login1"> </string>
+
+    //color selection on setting activity
+    <string name="red_background_color">Red Background Color</string>
+    <string name="green_background_color">Green Background Color</string>
+    <string name="blue_background_color">Blue Background Color</string>
+    <string name="button">Show Color</string>
+
+    //About developer
+    <string name="my_name">Developed by Masoud Jumah</string>
+    <string name="my_phone">+255718047962 or +255683749677</string>
+    <string name="masoud_jumah">Masoud Jumah</string>
+
+</resources>
